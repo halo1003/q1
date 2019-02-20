@@ -1,0 +1,2 @@
+docker stop container my_httpd
+docker container rm my_httpd
