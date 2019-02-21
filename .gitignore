@@ -1,126 +1,126 @@
-src/.htaccess.sample
-src/.modgit/
-src/.modman/
-src/app/code/community/Phoenix/
-src/app/code/community/Cm/
-src/app/code/core/
-src/app/design/adminhtml/default/default/
-src/app/design/frontend/base/
-src/app/design/frontend/rwd/
-src/app/design/frontend/default/blank/
-src/app/design/frontend/default/default/
-src/app/design/frontend/default/iphone/
-src/app/design/frontend/default/modern/
-src/app/design/frontend/enterprise/default
-src/app/design/install/
-src/app/etc/modules/Enterprise_*
-src/app/etc/modules/Mage_All.xml
-src/app/etc/modules/Mage_Api.xml
-src/app/etc/modules/Mage_Api2.xml
-src/app/etc/modules/Mage_Authorizenet.xml
-src/app/etc/modules/Mage_Bundle.xml
-src/app/etc/modules/Mage_Captcha.xml
-src/app/etc/modules/Mage_Centinel.xml
-src/app/etc/modules/Mage_Compiler.xml
-src/app/etc/modules/Mage_ConfigurableSwatches.xml
-src/app/etc/modules/Mage_Connect.xml
-src/app/etc/modules/Mage_CurrencySymbol.xml
-src/app/etc/modules/Mage_Downloadable.xml
-src/app/etc/modules/Mage_ImportExport.xml
-src/app/etc/modules/Mage_LoadTest.xml
-src/app/etc/modules/Mage_Oauth.xml
-src/app/etc/modules/Mage_PageCache.xml
-src/app/etc/modules/Mage_Persistent.xml
-src/app/etc/modules/Mage_Weee.xml
-src/app/etc/modules/Mage_Widget.xml
-src/app/etc/modules/Mage_XmlConnect.xml
-src/app/etc/modules/Phoenix_Moneybookers.xml
-src/app/etc/modules/Cm_RedisSession.xml
-src/app/etc/applied.patches.list
-src/app/etc/config.xml
-src/app/etc/enterprise.xml
-src/app/etc/local.xml.additional
-src/app/etc/local.xml.template
-src/app/etc/local.xml
-src/app/.htaccess
-src/app/locale/
-src/app/Mage.php
-src/cron.php
-src/cron.sh
-src/downloader/
-src/errors/
-src/favicon.ico
-src/get.php
-src/includes/
-src/index.php
-src/index.php.sample
-src/install.php
-src/js/blank.html
-src/js/calendar/
-src/js/enterprise/
-src/js/extjs/
-src/js/firebug/
-src/js/flash/
-src/js/index.php
-src/js/jscolor/
-src/js/lib/
-src/js/mage/
-src/js/prototype/
-src/js/scriptaculous/
-src/js/spacer.gif
-src/js/tiny_mce/
-src/js/varien/
-src/lib/3Dsecure/
-src/lib/Apache/
-src/lib/flex/
-src/lib/googlecheckout/
-src/lib/.htaccess
-src/lib/LinLibertineFont/
-src/lib/Mage/
-src/lib/PEAR/
-src/lib/Pelago/
-src/lib/phpseclib/
-src/lib/Varien/
-src/lib/Zend/
-src/lib/Cm/
-src/lib/Credis/
-src/lib/Magento/
-src/LICENSE_AFL.txt
-src/LICENSE.html
-src/LICENSE.txt
-src/LICENSE_EE*
-src/mage
-src/media/customer/
-src/media/dhl/
-src/media/downloadable/
-src/media/.htaccess
-src/media/import/
-src/media/xmlconnect/
-src/media/catalog/product/cache/
-src/media/catalog/product/placeholder/default/
-src/api.php
-src/nbproject/
-src/pear
-src/pear/
-src/php.ini.sample
-src/pkginfo/
-src/RELEASE_NOTES.txt
-src/shell/abstract.php
-src/shell/compiler.php
-src/shell/indexer.php
-src/shell/log.php
-src/sitemap.xml
-src/skin/adminhtml/default/default/
-src/skin/adminhtml/default/enterprise
-src/skin/frontend/base/
-src/skin/frontend/rwd/
-src/skin/frontend/default/blank/
-src/skin/frontend/default/blue/
-src/skin/frontend/default/default/
-src/skin/frontend/default/french/
-src/skin/frontend/default/german/
-src/skin/frontend/default/iphone/
-src/skin/frontend/default/modern/
-src/skin/frontend/enterprise
-src/skin/install/
-src/var/
+# src/.htaccess.sample
+# src/.modgit/
+# src/.modman/
+# src/app/code/community/Phoenix/
+# src/app/code/community/Cm/
+# src/app/code/core/
+# src/app/design/adminhtml/default/default/
+# src/app/design/frontend/base/
+# src/app/design/frontend/rwd/
+# src/app/design/frontend/default/blank/
+# src/app/design/frontend/default/default/
+# src/app/design/frontend/default/iphone/
+# src/app/design/frontend/default/modern/
+# src/app/design/frontend/enterprise/default
+# src/app/design/install/
+# src/app/etc/modules/Enterprise_*
+# src/app/etc/modules/Mage_All.xml
+# src/app/etc/modules/Mage_Api.xml
+# src/app/etc/modules/Mage_Api2.xml
+# src/app/etc/modules/Mage_Authorizenet.xml
+# src/app/etc/modules/Mage_Bundle.xml
+# src/app/etc/modules/Mage_Captcha.xml
+# src/app/etc/modules/Mage_Centinel.xml
+# src/app/etc/modules/Mage_Compiler.xml
+# src/app/etc/modules/Mage_ConfigurableSwatches.xml
+# src/app/etc/modules/Mage_Connect.xml
+# src/app/etc/modules/Mage_CurrencySymbol.xml
+# src/app/etc/modules/Mage_Downloadable.xml
+# src/app/etc/modules/Mage_ImportExport.xml
+# src/app/etc/modules/Mage_LoadTest.xml
+# src/app/etc/modules/Mage_Oauth.xml
+# src/app/etc/modules/Mage_PageCache.xml
+# src/app/etc/modules/Mage_Persistent.xml
+# src/app/etc/modules/Mage_Weee.xml
+# src/app/etc/modules/Mage_Widget.xml
+# src/app/etc/modules/Mage_XmlConnect.xml
+# src/app/etc/modules/Phoenix_Moneybookers.xml
+# src/app/etc/modules/Cm_RedisSession.xml
+# src/app/etc/applied.patches.list
+# src/app/etc/config.xml
+# src/app/etc/enterprise.xml
+# src/app/etc/local.xml.additional
+# src/app/etc/local.xml.template
+# src/app/etc/local.xml
+# src/app/.htaccess
+# src/app/locale/
+# src/app/Mage.php
+# src/cron.php
+# src/cron.sh
+# src/downloader/
+# src/errors/
+# src/favicon.ico
+# src/get.php
+# src/includes/
+# src/index.php
+# src/index.php.sample
+# src/install.php
+# src/js/blank.html
+# src/js/calendar/
+# src/js/enterprise/
+# src/js/extjs/
+# src/js/firebug/
+# src/js/flash/
+# src/js/index.php
+# src/js/jscolor/
+# src/js/lib/
+# src/js/mage/
+# src/js/prototype/
+# src/js/scriptaculous/
+# src/js/spacer.gif
+# src/js/tiny_mce/
+# src/js/varien/
+# src/lib/3Dsecure/
+# src/lib/Apache/
+# src/lib/flex/
+# src/lib/googlecheckout/
+# src/lib/.htaccess
+# src/lib/LinLibertineFont/
+# src/lib/Mage/
+# src/lib/PEAR/
+# src/lib/Pelago/
+# src/lib/phpseclib/
+# src/lib/Varien/
+# src/lib/Zend/
+# src/lib/Cm/
+# src/lib/Credis/
+# src/lib/Magento/
+# src/LICENSE_AFL.txt
+# src/LICENSE.html
+# src/LICENSE.txt
+# src/LICENSE_EE*
+# src/mage
+# src/media/customer/
+# src/media/dhl/
+# src/media/downloadable/
+# src/media/.htaccess
+# src/media/import/
+# src/media/xmlconnect/
+# src/media/catalog/product/cache/
+# src/media/catalog/product/placeholder/default/
+# src/api.php
+# src/nbproject/
+# src/pear
+# src/pear/
+# src/php.ini.sample
+# src/pkginfo/
+# src/RELEASE_NOTES.txt
+# src/shell/abstract.php
+# src/shell/compiler.php
+# src/shell/indexer.php
+# src/shell/log.php
+# src/sitemap.xml
+# src/skin/adminhtml/default/default/
+# src/skin/adminhtml/default/enterprise
+# src/skin/frontend/base/
+# src/skin/frontend/rwd/
+# src/skin/frontend/default/blank/
+# src/skin/frontend/default/blue/
+# src/skin/frontend/default/default/
+# src/skin/frontend/default/french/
+# src/skin/frontend/default/german/
+# src/skin/frontend/default/iphone/
+# src/skin/frontend/default/modern/
+# src/skin/frontend/enterprise
+# src/skin/install/
+# src/var/
