@@ -123,4 +123,5 @@
 # src/skin/frontend/default/modern/
 # src/skin/frontend/enterprise
 # src/skin/install/
-# src/var/
+src/var/
+.idea/

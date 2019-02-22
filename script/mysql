@@ -1,7 +1,0 @@
-if [ ! "$(docker ps -q -f name=my_mysql)" ]; then
-    if [ "$(docker ps -aq -f status=exited -f name=my_mysql)" ]; then
-        docker stop container my_mysql
-        docker rm my_mysql
-    fi                            
-    docker run -d --name my_mysql -p 8001:3306 -e MYSQL_ROOT_PASSWORD=root mysql
-fi    
